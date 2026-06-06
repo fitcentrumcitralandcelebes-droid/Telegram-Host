@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python mafiatgnc+spam.py"
